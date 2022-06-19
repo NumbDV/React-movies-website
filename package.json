@@ -2,7 +2,7 @@
   "name": "movies-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NumbDV.github.io/react-movies",
+  "homepage": "https://NumbDV.github.io/React-movies-website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
